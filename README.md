@@ -124,5 +124,6 @@ You Created. --> Save.
 
 sh -i ~/.ssh/id_rsa ubuntu@ipAddress
 ssh -i ~/.ssh/id_rsa ubuntu@3.90.203.23
+sh -i ~/.ssh/id_rsa ubuntu@api.class.k8s.local
   
 ``
